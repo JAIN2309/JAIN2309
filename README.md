@@ -106,7 +106,7 @@ class KrishJain extends FlutterDeveloper {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-JAIN2309-181717?style=for-the-badge&logo=github)](https://github.com/JAIN2309)
-[![Email](https://img.shields.io/badge/Email-contact%40jvsgroup.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishjain641@gmail,com)
+[![Email](https://img.shields.io/badge/Email-krishjain641%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishjain641@gmail,com)
 
 </div>
 
