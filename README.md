@@ -153,8 +153,6 @@ class KrishJain extends FullStackDeveloper {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=JAIN2309&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=00BCD4&sideLabels=ffffff&dates=888888" width="520"/>
-
 </div>
 
 ---
