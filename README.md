@@ -165,14 +165,6 @@ class KrishJain extends FullStackDeveloper {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JAIN2309&theme=darkhub&no-frame=true&column=7&margin-w=8" width="100%"/>
-</div>
-
----
-
 ## 🌱 Currently Building
 
 | Project | Stack | Status |
