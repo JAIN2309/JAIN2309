@@ -136,18 +136,19 @@ class KrishJain extends FullStackDeveloper {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [🤖 README Architect](https://github.com/JAIN2309/ReadmeArchitect) | AI-powered production-grade documentation generator with live split-pane rendering | Flutter · FastAPI · Google Gemini | ✅ Done |
+| [🤖 README Architect](https://github.com/JAIN2309/ReadmeArchitect) ([Demo](https://jain2309.github.io/ReadmeArchitect/)) | AI-powered production-grade documentation generator with live split-pane rendering | Flutter · FastAPI · Google Gemini | ✅ Done |
 | [🌉 FoodBridge](https://github.com/JAIN2309/foodbridgemern) | Food donors → NGOs, real-time full-stack platform | Flutter · React · Node.js · MongoDB · Redis | 🟢 Active |
-| [🔢 Merge Master 2048](https://github.com/JAIN2309/Merge-Master-2048) | Polished 2048 puzzle game | Flutter · Dart | ✅ Done |
-| [⏰ World Clock](https://github.com/JAIN2309/world_clock_timezone_app) | Beautiful analog clocks and timezone converter | Flutter · Dart | ✅ Done |
-| [🗂️ Flashcard App](https://github.com/JAIN2309/flashcard_spaced_repetition_app) | Spaced repetition learning platform with flip card animations | Flutter · Dart | ✅ Done |
-| [⚡ Speed Tester](https://github.com/JAIN2309/network_speed_tester_app) | Polished internet network speed test gauge and history | Flutter · Dart | ✅ Done |
+| [🔢 Merge Master 2048](https://github.com/JAIN2309/Merge-Master-2048) ([Demo](https://jain2309.github.io/Merge-Master-2048/)) | Polished 2048 puzzle game | Flutter · Dart | ✅ Done |
+| [⏰ World Clock](https://github.com/JAIN2309/world_clock_timezone_app) ([Demo](https://jain2309.github.io/world_clock_timezone/)) | Beautiful analog clocks and timezone converter | Flutter · Dart | ✅ Done |
+| [🗂️ Flashcard App](https://github.com/JAIN2309/flashcard_spaced_repetition_app) ([Demo](https://jain2309.github.io/spaced-repetition-flashcards/)) | Spaced repetition learning platform with flip card animations | Flutter · Dart | ✅ Done |
+| [⚡ Speed Tester](https://github.com/JAIN2309/network_speed_tester_app) ([Demo](https://jain2309.github.io/network-speed-tester/)) | Polished internet network speed test gauge and history | Flutter · Dart | ✅ Done |
+| [🎂 Age Calculator](https://github.com/JAIN2309/Age_Calculator) ([Demo](https://jain2309.github.io/Age_Calculator/)) | Beautiful Material 3 age breakdown and birthday countdown | Flutter · Dart | ✅ Done |
 | 📱 **FoodBridge Mobile** | Mobile counterpart for the FoodBridge donation network | Flutter · Expo · Firebase | ✅ Done |
 | 📊 **Expense Tracker** | Dynamic personal expense tracker with interactive charts | Flutter · fl_chart · Hive | ✅ Done |
 | [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) | Real-time currency converter | Flutter · REST API | ✅ Done |
 | [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) | PDF & image transformer | Flutter · Dart | ✅ Done |
 | [🧩 Sudoku](https://github.com/JAIN2309/sudoku_flutter_app) | Classic Sudoku with difficulty levels | Flutter · Dart | ✅ Done |
-| [🌦️ Climax Weather](https://github.com/JAIN2309/climax_weatherapp_flutter) | Live weather with clean UI | Flutter · REST API | ✅ Done |
+| [🌦️ Climax Weather](https://github.com/JAIN2309/climax_weatherapp_flutter) ([Demo](https://jain2309.github.io/climax_weatherapp_flutter/)) | Live weather with clean UI | Flutter · REST API | ✅ Done |
 
 </div>
 
