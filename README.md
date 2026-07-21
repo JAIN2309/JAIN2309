@@ -143,9 +143,13 @@ class KrishJain extends FullStackDeveloper {
 | [🗂️ Flashcard App](https://github.com/JAIN2309/flashcard_spaced_repetition_app) ([Demo](https://jain2309.github.io/spaced-repetition-flashcards/)) | Spaced repetition learning platform with flip card animations | Flutter · Dart | ✅ Done |
 | [⚡ Speed Tester](https://github.com/JAIN2309/network_speed_tester_app) ([Demo](https://jain2309.github.io/network-speed-tester/)) | Polished internet network speed test gauge and history | Flutter · Dart | ✅ Done |
 | [🎂 Age Calculator](https://github.com/JAIN2309/Age_Calculator) ([Demo](https://jain2309.github.io/Age_Calculator/)) | Beautiful Material 3 age breakdown and birthday countdown | Flutter · Dart | ✅ Done |
+| [⏰ Modern Clock Dashboard](https://github.com/JAIN2309/modernclock) ([Demo](https://jain2309.github.io/modernclock/)) | Minimalistic digital & analog clock web dashboard | Flutter · Dart | ✅ Done |
+| [📝 Modern To-Do](https://github.com/JAIN2309/moderntodoapp) ([Demo](https://jain2309.github.io/moderntodoapp/)) | Polished task manager with customized theme modes | Flutter · Dart | ✅ Done |
+| [🧮 Glassmorphic Calculator](https://github.com/JAIN2309/easycalc_flutter) ([Demo](https://jain2309.github.io/easycalc_flutter/)) | Sleek glassmorphic calculator with history tracking | Flutter · Dart | ✅ Done |
+| [🏷️ Modern Barcode & QR](https://github.com/JAIN2309/modern_barcoder_generator) ([Demo](https://jain2309.github.io/modern_barcoder_generator/)) | Barcode & QR scanner and generator | Flutter · Dart | ✅ Done |
 | 📱 **FoodBridge Mobile** | Mobile counterpart for the FoodBridge donation network | Flutter · Expo · Firebase | ✅ Done |
 | 📊 **Expense Tracker** | Dynamic personal expense tracker with interactive charts | Flutter · fl_chart · Hive | ✅ Done |
-| [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) | Real-time currency converter | Flutter · REST API | ✅ Done |
+| [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) ([Demo](https://jain2309.github.io/exchangeease_flutter_app/)) | Real-time currency converter | Flutter · REST API | ✅ Done |
 | [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) | PDF & image transformer | Flutter · Dart | ✅ Done |
 | [🧩 Sudoku](https://github.com/JAIN2309/sudoku_flutter_app) | Classic Sudoku with difficulty levels | Flutter · Dart | ✅ Done |
 | [🌦️ Climax Weather](https://github.com/JAIN2309/climax_weatherapp_flutter) ([Demo](https://jain2309.github.io/climax_weatherapp_flutter/)) | Live weather with clean UI | Flutter · REST API | ✅ Done |
