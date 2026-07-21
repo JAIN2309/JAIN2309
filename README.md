@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jain2309.github.io-00BCD4?style=flat-square&logo=googlechrome&logoColor=white)](https://jain2309.github.io)
 ![Profile Views](https://komarev.com/ghpvc/?username=JAIN2309&label=Profile+Views&color=6C63FF&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/JAIN2309?label=Followers&style=flat-square&color=00BCD4)
 ![GitHub stars](https://img.shields.io/github/stars/JAIN2309?label=Total%20Stars&style=flat-square&color=6C63FF)
@@ -23,7 +24,7 @@ class KrishJain extends FullStackDeveloper {
   final String name        = "Krish Jain";
   final String location    = "India 🇮🇳";
   final String focus       = "Mobile apps · Secure backends · Cloud";
-  final String currentWork = "FoodBridge — connecting donors & NGOs";
+  final String currentWork = "ReadmeArchitect (AI documentation engine) · FoodBridge";
   final bool   openToWork  = true;
 
   // Mobile
@@ -139,6 +140,8 @@ class KrishJain extends FullStackDeveloper {
 | [⏰ World Clock](https://github.com/JAIN2309/world_clock_timezone_app) | Beautiful analog clocks and timezone converter | Flutter · Dart | ✅ Done |
 | [🗂️ Flashcard App](https://github.com/JAIN2309/flashcard_spaced_repetition_app) | Spaced repetition learning platform with flip card animations | Flutter · Dart | ✅ Done |
 | [⚡ Speed Tester](https://github.com/JAIN2309/network_speed_tester_app) | Polished internet network speed test gauge and history | Flutter · Dart | ✅ Done |
+| 📱 **FoodBridge Mobile** | Mobile counterpart for the FoodBridge donation network | Flutter · Expo · Firebase | ✅ Done |
+| 📊 **Expense Tracker** | Dynamic personal expense tracker with interactive charts | Flutter · fl_chart · Hive | ✅ Done |
 | [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) | Real-time currency converter | Flutter · REST API | ✅ Done |
 | [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) | PDF & image transformer | Flutter · Dart | ✅ Done |
 | [🧩 Sudoku](https://github.com/JAIN2309/sudoku_flutter_app) | Classic Sudoku with difficulty levels | Flutter · Dart | ✅ Done |
@@ -160,8 +163,6 @@ class KrishJain extends FullStackDeveloper {
 
 | Project | Stack | Status |
 |---|---|---|
-| 📱 **FoodBridge Mobile** | Flutter · Expo · Firebase | ✅ Done |
-| 📊 **Expense Tracker** | Flutter · fl_chart · Hive | ✅ Done |
 | 🔐 **Firebase Auth Kit** | Flutter · Firebase Auth | 🔜 Soon |
 | 🐍 **FastAPI + PostgreSQL Starter** | Python · FastAPI · PostgreSQL | 🔜 Soon |
 
@@ -171,6 +172,7 @@ class KrishJain extends FullStackDeveloper {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jain2309.github.io-00BCD4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jain2309.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-JAIN2309-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAIN2309)
 [![Email](https://img.shields.io/badge/Email-krishjain641%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishjain641@gmail.com)
 
