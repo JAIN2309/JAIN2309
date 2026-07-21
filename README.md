@@ -27,8 +27,10 @@ class KrishJain extends FullStackDeveloper {
   final String currentWork = "ReadmeArchitect (AI documentation engine) · FoodBridge";
   final bool   openToWork  = true;
 
-  // Mobile
-  List<String> get mobile  => ["Flutter", "Dart", "React Native", "Kotlin"];
+  // Mobile & Architecture
+  List<String> get mobile          => ["Flutter", "Dart", "React Native", "Kotlin"];
+  List<String> get architecture    => ["Clean Architecture", "SOLID", "MVC", "MVVM"];
+  List<String> get stateManagement => ["BLoC / Cubit", "Provider", "Riverpod", "GetX"];
 
   // Backend
   List<String> get backend => [
@@ -155,6 +157,24 @@ class KrishJain extends FullStackDeveloper {
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAIN2309&bg_color=0D1117&color=6C63FF&line=00BCD4&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JAIN2309&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="github trophies" />
+  </a>
+</div>
+
+---
+
+## 📊 Weekly Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JAIN2309&theme=tokyonight&hide_border=true" alt="WakaTime Activity" />
 </div>
 
 ---
