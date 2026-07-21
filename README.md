@@ -133,25 +133,16 @@ class KrishJain extends FullStackDeveloper {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [🤖 README Architect](https://github.com/JAIN2309/ReadmeArchitect) | AI-powered production-grade documentation generator with live split-pane rendering | Flutter · FastAPI · Google Gemini | ✅ Done |
 | [🌉 FoodBridge](https://github.com/JAIN2309/foodbridgemern) | Food donors → NGOs, real-time full-stack platform | Flutter · React · Node.js · MongoDB · Redis | 🟢 Active |
 | [🔢 Merge Master 2048](https://github.com/JAIN2309/Merge-Master-2048) | Polished 2048 puzzle game | Flutter · Dart | ✅ Done |
+| [⏰ World Clock](https://github.com/JAIN2309/world_clock_timezone_app) | Beautiful analog clocks and timezone converter | Flutter · Dart | ✅ Done |
+| [🗂️ Flashcard App](https://github.com/JAIN2309/flashcard_spaced_repetition_app) | Spaced repetition learning platform with flip card animations | Flutter · Dart | ✅ Done |
+| [⚡ Speed Tester](https://github.com/JAIN2309/network_speed_tester_app) | Polished internet network speed test gauge and history | Flutter · Dart | ✅ Done |
 | [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) | Real-time currency converter | Flutter · REST API | ✅ Done |
 | [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) | PDF & image transformer | Flutter · Dart | ✅ Done |
 | [🧩 Sudoku](https://github.com/JAIN2309/sudoku_flutter_app) | Classic Sudoku with difficulty levels | Flutter · Dart | ✅ Done |
 | [🌦️ Climax Weather](https://github.com/JAIN2309/climax_weatherapp_flutter) | Live weather with clean UI | Flutter · REST API | ✅ Done |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JAIN2309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00BCD4&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIN2309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8" height="175"/>
-
-<br/>
 
 </div>
 
@@ -169,8 +160,8 @@ class KrishJain extends FullStackDeveloper {
 
 | Project | Stack | Status |
 |---|---|---|
-| 📱 **FoodBridge Mobile** | Flutter · Expo · Firebase | 🔨 In Progress |
-| 📊 **Expense Tracker** | Flutter · fl_chart · Hive | 🔨 In Progress |
+| 📱 **FoodBridge Mobile** | Flutter · Expo · Firebase | ✅ Done |
+| 📊 **Expense Tracker** | Flutter · fl_chart · Hive | ✅ Done |
 | 🔐 **Firebase Auth Kit** | Flutter · Firebase Auth | 🔜 Soon |
 | 🐍 **FastAPI + PostgreSQL Starter** | Python · FastAPI · PostgreSQL | 🔜 Soon |
 
