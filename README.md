@@ -148,10 +148,10 @@ class KrishJain extends FullStackDeveloper {
 | [🧮 Glassmorphic Calculator](https://github.com/JAIN2309/easycalc_flutter) ([Demo](https://jain2309.github.io/easycalc_flutter/)) | Sleek glassmorphic calculator with history tracking | Flutter · Dart | ✅ Done |
 | [🏷️ Modern Barcode & QR](https://github.com/JAIN2309/modern_barcoder_generator) ([Demo](https://jain2309.github.io/modern_barcoder_generator/)) | Barcode & QR scanner and generator | Flutter · Dart | ✅ Done |
 | 📱 **FoodBridge Mobile** | Mobile counterpart for the FoodBridge donation network | Flutter · Expo · Firebase | ✅ Done |
-| 📊 **Expense Tracker** | Dynamic personal expense tracker with interactive charts | Flutter · fl_chart · Hive | ✅ Done |
+| 📊 [Expense Tracker](https://github.com/JAIN2309/SpendSmart_flutter) ([Demo](https://jain2309.github.io/SpendSmart_flutter/)) | Dynamic personal expense tracker with interactive charts | Flutter · fl_chart · Hive | ✅ Done |
 | [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) ([Demo](https://jain2309.github.io/exchangeease_flutter_app/)) | Real-time currency converter | Flutter · REST API | ✅ Done |
-| [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) | PDF & image transformer | Flutter · Dart | ✅ Done |
-| [🧩 Sudoku](https://github.com/JAIN2309/sudoku_flutter_app) | Classic Sudoku with difficulty levels | Flutter · Dart | ✅ Done |
+| [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) ([Demo](https://jain2309.github.io/convertflow_flutter_app/)) | PDF & image transformer | Flutter · Dart | ✅ Done |
+| [🧩 Sudoku](https://github.com/JAIN2309/sudoku_flutter_app) ([Demo](https://jain2309.github.io/sudoku_flutter_app/)) | Classic Sudoku with difficulty levels | Flutter · Dart | ✅ Done |
 | [🌦️ Climax Weather](https://github.com/JAIN2309/climax_weatherapp_flutter) ([Demo](https://jain2309.github.io/climax_weatherapp_flutter/)) | Live weather with clean UI | Flutter · REST API | ✅ Done |
 
 </div>
