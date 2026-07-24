@@ -30,7 +30,7 @@ class KrishJain extends FullStackDeveloper {
   // Mobile & Architecture
   List<String> get mobile          => ["Flutter", "Dart", "React Native", "Kotlin"];
   List<String> get architecture    => ["Clean Architecture", "SOLID", "MVC", "MVVM"];
-  List<String> get stateManagement => ["BLoC / Cubit", "Provider", "Riverpod", "GetX"];
+  List<String> get stateManagement => ["Provider", "GetX","Stateless/Statefulness"];
 
   // Backend
   List<String> get backend => [
@@ -137,7 +137,7 @@ class KrishJain extends FullStackDeveloper {
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [🤖 README Architect](https://github.com/JAIN2309/ReadmeArchitect) ([Demo](https://jain2309.github.io/ReadmeArchitect/)) | AI-powered production-grade documentation generator with live split-pane rendering | Flutter · FastAPI · Google Gemini | ✅ Done |
-| [🌉 FoodBridge](https://github.com/JAIN2309/foodbridgemern) | Food donors → NGOs, real-time full-stack platform | Flutter · React · Node.js · MongoDB · Redis | 🟢 Active |
+| [🌉 FoodBridge](https://github.com/JAIN2309/foodbridgemern) | Food donors → NGOs, real-time full-stack platform | React Native · React · Node.js · MongoDB · Redis | 🟢 Active |
 | [🔢 Merge Master 2048](https://github.com/JAIN2309/Merge-Master-2048) ([Demo](https://jain2309.github.io/Merge-Master-2048/)) | Polished 2048 puzzle game | Flutter · Dart | ✅ Done |
 | [⏰ World Clock](https://github.com/JAIN2309/world_clock_timezone_app) ([Demo](https://jain2309.github.io/world_clock_timezone/)) | Beautiful analog clocks and timezone converter | Flutter · Dart | ✅ Done |
 | [🗂️ Flashcard App](https://github.com/JAIN2309/flashcard_spaced_repetition_app) ([Demo](https://jain2309.github.io/spaced-repetition-flashcards/)) | Spaced repetition learning platform with flip card animations | Flutter · Dart | ✅ Done |
