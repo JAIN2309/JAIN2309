@@ -147,7 +147,6 @@ class KrishJain extends FullStackDeveloper {
 | [📝 Modern To-Do](https://github.com/JAIN2309/moderntodoapp) ([Demo](https://jain2309.github.io/moderntodoapp/)) | Polished task manager with customized theme modes | Flutter · Dart | ✅ Done |
 | [🧮 Glassmorphic Calculator](https://github.com/JAIN2309/easycalc_flutter) ([Demo](https://jain2309.github.io/easycalc_flutter/)) | Sleek glassmorphic calculator with history tracking | Flutter · Dart | ✅ Done |
 | [🏷️ Modern Barcode & QR](https://github.com/JAIN2309/modern_barcoder_generator) ([Demo](https://jain2309.github.io/modern_barcoder_generator/)) | Barcode & QR scanner and generator | Flutter · Dart | ✅ Done |
-| 📱 **FoodBridge Mobile** | Mobile counterpart for the FoodBridge donation network | Flutter · Expo · Firebase | ✅ Done |
 | 📊 [Expense Tracker](https://github.com/JAIN2309/SpendSmart_flutter) ([Demo](https://jain2309.github.io/SpendSmart_flutter/)) | Dynamic personal expense tracker with interactive charts | Flutter · fl_chart · Hive | ✅ Done |
 | [💱 ExchangeEase](https://github.com/JAIN2309/exchangeease_flutter_app) ([Demo](https://jain2309.github.io/exchangeease_flutter_app/)) | Real-time currency converter | Flutter · REST API | ✅ Done |
 | [📄 ConvertFlow](https://github.com/JAIN2309/convertflow_flutter_app) ([Demo](https://jain2309.github.io/convertflow_flutter_app/)) | PDF & image transformer | Flutter · Dart | ✅ Done |
@@ -163,26 +162,6 @@ class KrishJain extends FullStackDeveloper {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAIN2309&bg_color=0D1117&color=6C63FF&line=00BCD4&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JAIN2309&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="github trophies" />
-  </a>
-</div>
-
----
-
-## 📊 Weekly Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JAIN2309&theme=tokyonight&hide_border=true" alt="WakaTime Activity" />
-</div>
-
----
 
 ## 🌱 Currently Building
 
